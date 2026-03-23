@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+
+    inteiro resto 
+    resto = 10%3
+  
+
+    escreva(" resto é:", + resto)
+    
+  }
+}
